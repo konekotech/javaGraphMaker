@@ -1,0 +1,22 @@
+plugins {
+    id 'java'
+    id 'org.openjfx.javafxplugin' version '0.0.9'
+    id "org.beryx.jlink" version "2.21.0"
+}
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+
+}
+
+application {
+    mainClassName = 'graphMaker.Main'
+}
+
+javafx {
+    version = '15'
+    modules = [ 'javafx.controls' ]
+}

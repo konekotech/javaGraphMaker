@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="javaGraphMaker:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/javaGraphMaker_jar</output-path>
+    <root id="archive" name="javaGraphMaker.jar">
+      <element id="extracted-dir" path="$USER_HOME$/jarfiles/aspose-cells-22.8-java/JDK 1.6/aspose-cells-22.8-java/lib/bcpkix-jdk15on-1.60.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/jarfiles/aspose-cells-22.8-java/JDK 1.6/aspose-cells-22.8-java/lib/aspose-cells-22.8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
