@@ -142,6 +142,7 @@ public class Controller {
         List<String> ret = builder.build(xList, yList, xLabelName, yLabelName, caption, label, zero);
         this.result1.setText(ret.get(4));
         this.result2.setText(ret.get(5));
+        zero = false;
     }
 
 }
