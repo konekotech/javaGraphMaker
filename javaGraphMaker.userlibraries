@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: org.openjfx:javafx-base:19">
+    <archive path="/Users/a.shuto/.m2/repository/org/openjfx/javafx-base/19/javafx-base-19.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-graphics:19">
+    <archive path="/Users/a.shuto/.m2/repository/org/openjfx/javafx-graphics/19/javafx-graphics-19.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-base:mac:19">
+    <archive path="/Users/a.shuto/.m2/repository/org/openjfx/javafx-base/19/javafx-base-19-mac.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-fxml:mac:19">
+    <archive path="/Users/a.shuto/.m2/repository/org/openjfx/javafx-fxml/19/javafx-fxml-19-mac.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-controls:19">
+    <archive path="/Users/a.shuto/.m2/repository/org/openjfx/javafx-controls/19/javafx-controls-19.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-fxml:19">
+    <archive path="/Users/a.shuto/.m2/repository/org/openjfx/javafx-fxml/19/javafx-fxml-19.jar" />
+  </library>
+  <library name="Maven: com.aspose.cells:aspose-cells:22.8">
+    <archive path="/Users/a.shuto/.m2/repository/com/aspose/cells/aspose-cells/22.8/aspose-cells-22.8.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-graphics:mac:19">
+    <archive path="/Users/a.shuto/.m2/repository/org/openjfx/javafx-graphics/19/javafx-graphics-19-mac.jar" />
+  </library>
+  <library name="Maven: org.openjfx:javafx-controls:mac:19">
+    <archive path="/Users/a.shuto/.m2/repository/org/openjfx/javafx-controls/19/javafx-controls-19-mac.jar" />
+  </library>
+</eclipse-userlibraries>
+

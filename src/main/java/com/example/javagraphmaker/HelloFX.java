@@ -9,7 +9,7 @@ import java.io.IOException;
 
 public class HelloFX extends Application {
     @Override
-    public void start(Stage stage) throws IOException {
+    public void start(@SuppressWarnings("exports") Stage stage) throws IOException {
         FXMLLoader fxmlLoader = new FXMLLoader(Main.class.getResource("hello-view.fxml"));
         Scene scene = new Scene(fxmlLoader.load(), 600, 750);
         stage.setResizable(false);
